@@ -22,10 +22,10 @@
   <Huri.lifeStages.2.labelMalePlural>Huri Männchen</Huri.lifeStages.2.labelMalePlural>
   <Huri.lifeStages.2.labelFemale>Huri Weibchen</Huri.lifeStages.2.labelFemale>
   <Huri.lifeStages.2.labelFemalePlural>Huri Weibchen</Huri.lifeStages.2.labelFemalePlural>
-  <Huri.labelMale>Huri</Huri.labelMale>
-  <Huri.labelMalePlural>Huris</Huri.labelMalePlural>
-  <Huri.labelFemale>Huri</Huri.labelFemale>
-  <Huri.labelFemalePlural>Huris</Huri.labelFemalePlural>
+  <Huri.labelMale>Männlicher Huri</Huri.labelMale>
+  <Huri.labelMalePlural>Männliche Huris</Huri.labelMalePlural>
+  <Huri.labelFemale>Weiblicher Huri</Huri.labelFemale>
+  <Huri.labelFemalePlural>Weibliche Huris</Huri.labelFemalePlural>
   
 </LanguageData>
 
